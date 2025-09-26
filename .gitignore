@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 HELP.md
 .gradle
 build/
@@ -35,3 +36,22 @@ out/
 
 ### VS Code ###
 .vscode/
+=======
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+# https://maven.apache.org/wrapper/#usage-without-binary-jar
+.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse m2e generated files
+# Eclipse Core
+.project
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+>>>>>>> 59f599875d02f291144f8f03f4ca026b0b4b6803
